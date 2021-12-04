@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaGoF.iml" filepath="$PROJECT_DIR$/JavaGoF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p1_iterator/p1_iterator.iml" filepath="$PROJECT_DIR$/p1_iterator/p1_iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2_adapter/p2_adapter.iml" filepath="$PROJECT_DIR$/p2_adapter/p2_adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p3_template/p3_template.iml" filepath="$PROJECT_DIR$/p3_template/p3_template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p4_factory/p4_factory.iml" filepath="$PROJECT_DIR$/p4_factory/p4_factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p5_singleton/p5_singleton.iml" filepath="$PROJECT_DIR$/p5_singleton/p5_singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p6_prototype/p6_prototype.iml" filepath="$PROJECT_DIR$/p6_prototype/p6_prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p7_builder/p7_builder.iml" filepath="$PROJECT_DIR$/p7_builder/p7_builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p8_abstract_factory/p8_abstract_factory.iml" filepath="$PROJECT_DIR$/p8_abstract_factory/p8_abstract_factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p9_bridge/p9_bridge.iml" filepath="$PROJECT_DIR$/p9_bridge/p9_bridge.iml" />
+    </modules>
+  </component>
+</project>
