@@ -18,6 +18,11 @@
       <module fileurl="file://$PROJECT_DIR$/p21_Proxy/p21_Proxy.iml" filepath="$PROJECT_DIR$/p21_Proxy/p21_Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/p22_Command/p22_Command.iml" filepath="$PROJECT_DIR$/p22_Command/p22_Command.iml" />
       <module fileurl="file://$PROJECT_DIR$/p23_Interpreter/p23_Interpreter.iml" filepath="$PROJECT_DIR$/p23_Interpreter/p23_Interpreter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p24_SingleThreadedExecution/p24_SingleThreadedExecution.iml" filepath="$PROJECT_DIR$/p24_SingleThreadedExecution/p24_SingleThreadedExecution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p25_Immutable/p25_Immutable.iml" filepath="$PROJECT_DIR$/p25_Immutable/p25_Immutable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p26_GuardedSuspension/p26_GuardedSuspension.iml" filepath="$PROJECT_DIR$/p26_GuardedSuspension/p26_GuardedSuspension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p27_Balking/p27_Balking.iml" filepath="$PROJECT_DIR$/p27_Balking/p27_Balking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p28_ProducerConsumer/p28_ProducerConsumer.iml" filepath="$PROJECT_DIR$/p28_ProducerConsumer/p28_ProducerConsumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/p2_adapter/p2_adapter.iml" filepath="$PROJECT_DIR$/p2_adapter/p2_adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/p3_template/p3_template.iml" filepath="$PROJECT_DIR$/p3_template/p3_template.iml" />
       <module fileurl="file://$PROJECT_DIR$/p4_factory/p4_factory.iml" filepath="$PROJECT_DIR$/p4_factory/p4_factory.iml" />
