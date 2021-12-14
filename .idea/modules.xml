@@ -25,6 +25,8 @@
       <module fileurl="file://$PROJECT_DIR$/p28_ProducerConsumer/p28_ProducerConsumer.iml" filepath="$PROJECT_DIR$/p28_ProducerConsumer/p28_ProducerConsumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/p29_ReadWriteLock/p29_ReadWriteLock.iml" filepath="$PROJECT_DIR$/p29_ReadWriteLock/p29_ReadWriteLock.iml" />
       <module fileurl="file://$PROJECT_DIR$/p2_adapter/p2_adapter.iml" filepath="$PROJECT_DIR$/p2_adapter/p2_adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p30_ThreadPerMessage/p30_ThreadPerMessage.iml" filepath="$PROJECT_DIR$/p30_ThreadPerMessage/p30_ThreadPerMessage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p31_WorkerThread/p31_WorkerThread.iml" filepath="$PROJECT_DIR$/p31_WorkerThread/p31_WorkerThread.iml" />
       <module fileurl="file://$PROJECT_DIR$/p3_template/p3_template.iml" filepath="$PROJECT_DIR$/p3_template/p3_template.iml" />
       <module fileurl="file://$PROJECT_DIR$/p4_factory/p4_factory.iml" filepath="$PROJECT_DIR$/p4_factory/p4_factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/p5_singleton/p5_singleton.iml" filepath="$PROJECT_DIR$/p5_singleton/p5_singleton.iml" />
