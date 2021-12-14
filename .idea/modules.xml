@@ -23,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/p26_GuardedSuspension/p26_GuardedSuspension.iml" filepath="$PROJECT_DIR$/p26_GuardedSuspension/p26_GuardedSuspension.iml" />
       <module fileurl="file://$PROJECT_DIR$/p27_Balking/p27_Balking.iml" filepath="$PROJECT_DIR$/p27_Balking/p27_Balking.iml" />
       <module fileurl="file://$PROJECT_DIR$/p28_ProducerConsumer/p28_ProducerConsumer.iml" filepath="$PROJECT_DIR$/p28_ProducerConsumer/p28_ProducerConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p29_ReadWriteLock/p29_ReadWriteLock.iml" filepath="$PROJECT_DIR$/p29_ReadWriteLock/p29_ReadWriteLock.iml" />
       <module fileurl="file://$PROJECT_DIR$/p2_adapter/p2_adapter.iml" filepath="$PROJECT_DIR$/p2_adapter/p2_adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/p3_template/p3_template.iml" filepath="$PROJECT_DIR$/p3_template/p3_template.iml" />
       <module fileurl="file://$PROJECT_DIR$/p4_factory/p4_factory.iml" filepath="$PROJECT_DIR$/p4_factory/p4_factory.iml" />
