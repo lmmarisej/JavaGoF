@@ -2,6 +2,7 @@ package Sample;
 
 public class RealData implements Data {
     private final String content;
+
     public RealData(int count, char c) {
         System.out.println("        making RealData(" + count + ", " + c + ") BEGIN");
         char[] buffer = new char[count];
@@ -9,12 +10,13 @@ public class RealData implements Data {
             buffer[i] = c;
             try {
                 Thread.sleep(100);
-            } catch (InterruptedException e) {
+            } catch (InterruptedException ignored) {
             }
         }
         System.out.println("        making RealData(" + count + ", " + c + ") END");
         this.content = new String(buffer);
     }
+
     public String getContent() {
         return content;
     }
